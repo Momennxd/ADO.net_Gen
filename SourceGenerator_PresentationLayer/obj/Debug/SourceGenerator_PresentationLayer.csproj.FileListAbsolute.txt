@@ -1,0 +1,13 @@
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_PresentationLayer.exe.config
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_PresentationLayer.exe
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_PresentationLayer.pdb
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.csproj.AssemblyReference.cache
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.Properties.Resources.resources
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.csproj.GenerateResource.cache
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.exe
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.pdb
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_Core.dll
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_Core.pdb
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.csproj.CopyComplete
+D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.Form1.resources
