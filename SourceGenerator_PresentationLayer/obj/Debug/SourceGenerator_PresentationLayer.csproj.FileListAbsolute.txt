@@ -11,3 +11,16 @@ D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\bin\D
 D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_Core.pdb
 D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.csproj.CopyComplete
 D:\Projects\My Projects\Source Generator\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.Form1.resources
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_PresentationLayer.exe.config
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_PresentationLayer.exe
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_PresentationLayer.pdb
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_Core.dll
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\bin\Debug\SourceGenerator_Core.pdb
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.Properties.Resources.resources
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.Form1.resources
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\obj\Debug\SourceGe.8C395C82.Up2Date
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.exe
+C:\Users\ALYOSER\Desktop\ADO.NET\ADO.net_Gen\SourceGenerator_PresentationLayer\obj\Debug\SourceGenerator_PresentationLayer.pdb
